@@ -6,7 +6,7 @@ Program dapat dijalankan menggunakan code editor seperti IntellijIdea, Visual St
 
 Hasil Output dapat dilihat pada Result.pdf.
 
-#Jawaban: 
+# Jawaban: 
 untuk soal No.1 terdapat pada src\main\java\org\salsa\Count.java
 
 untuk soal No.2 terdapat pada src\main\java\org\salsa\CountSort.java
